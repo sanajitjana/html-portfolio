@@ -1,13 +1,17 @@
 <div align="center">
-  <a href="https://sanajitjana.github.io" target="_blank">  
-    <img alt="Logo" src="https://sanajitjana.github.io/packages/images/logo.webp" width="50" />
+  <a href="https://sanajitjana.github.io/html-portfolio" target="_blank">
+    <img alt="Logo" src="https://sanajitjana.github.io/html-portfolio/packages/images/logo.webp" width="50" />
   </a>
 </div>
 <h1 align="center">
-  sanajitjana.github.io - v2
+  Sanajit Jana - Portfolio Website (Old Version)
 </h1>
 <p align="center">
-  The second iteration of <a href="https://sanajitjana.github.io" target="_blank">sanajitjana.github.io</a> built with HTML, CSS, JavaScript and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+  Old version of <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana's</a> personal portfolio website built with HTML, CSS, JavaScript and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+</p>
+
+<p align="center">
+  <strong>New Portfolio:</strong> <a href="https://sanajitjana.github.io" target="_blank">sanajitjana.github.io</a>
 </p>
 
 <!-- website version -->
@@ -39,7 +43,9 @@
 ✔️ Projects\
 ✔️ Contact
 
-Check this out, **[Live URL](https://sanajitjana.github.io/)**
+Check this out, **[Live URL](https://sanajitjana.github.io/html-portfolio)**
+
+**Note:** This old version is hosted on the subdirectory `/html-portfolio`. The new portfolio is available at <a href="https://sanajitjana.github.io" target="_blank">sanajitjana.github.io</a>
 
 ## Tech Stacks & Tools Used 🛠️
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,github,vscode&theme=light)](#)
