@@ -53,7 +53,7 @@ Check this out, **[Live URL](https://sanajitjana.github.io/)**
 
 ## 🚨 Forking this repo (please read!)
 
-This repository is fully Open Source, Feel free to fork this, yes you heard it right - you can fork this repo without asking anyone. Before that please give me a star, fork it, and customize it as per your wish. If you face any difficulty you can connect with me <a href="mailto:mail.sanajitjana@gmail.com">mail.sanajitjana@gmail.com</a>.
+This repository is fully Open Source, Feel free to fork this, yes you heard it right - you can fork this repo without asking anyone. Before that please give me a star, fork it, and customize it as per your wish. If you face any difficulty you can connect with me <a href="mailto:sanajitjana01@gmail.com">sanajitjana01@gmail.com</a>.
 
 - Give a start (:star:) and then click on fork (:fork_and_knife:) to your account.
 - Clone your repo and modify the content of <b>index.html</b> according to your requirement.
