@@ -7,7 +7,7 @@
   Sanajit Jana - Portfolio Website (Old Version)
 </h1>
 <p align="center">
-  Old version of <a href="https://sanajitjana.github.io" target="_blank">Sanajit Jana's</a> personal portfolio website built with HTML, CSS, JavaScript and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+  Old version of <a href="https://sanajitjana.github.io/html-portfolio" target="_blank">Sanajit Jana's</a> personal portfolio website built with HTML, CSS, JavaScript and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 </p>
 
 <p align="center">
